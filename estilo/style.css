@@ -19,6 +19,16 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.302);
 }
 
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.098);
+}
+
 footer {
     color: white;
     text-align: center;
