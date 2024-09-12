@@ -19,6 +19,7 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.302);
     display: flex;
     flex-flow: column wrap;
+    align-items: center;
 }
 
 div {
