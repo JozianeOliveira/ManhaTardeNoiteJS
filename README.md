@@ -10,7 +10,7 @@
     <strong>Detecção Automática do Horário:</strong> O sistema identifica a hora atual e exibe a mensagem correspondente.
   </li>
   <li>
-    <strong>Mudança de Imagem:</strong> A imagem muda conforme o horário detectado, mostrando um cenário de manhã, tarde ou noite.
+    <strong>Mudança de Imagem:</strong> A imagem muda conforme o horário detectado, mostrando um cenário da manhã, tarde ou noite.
   </li>
   <li>
     <strong>Alteração de Estilo:</strong> A cor de fundo da página e a sombra das imagens são ajustadas dinamicamente para refletir o período do dia.
