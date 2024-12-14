@@ -1,7 +1,7 @@
 # Hora do Dia 🌅🌞🌜
 
 <p align="left">
-  ⏰ Projeto interativo desenvolvido com HTML, CSS e JavaScript para exibir diferentes mensagens e imagens conforme a hora do dia. Ao carregar a página, o sistema identifica o horário atual e ajusta a mensagem, a imagem e o fundo da página para refletir o período do dia (manhã, tarde ou noite).
+  ⏰ Projeto interativo desenvolvido com HTML, CSS e JavaScript para exibir diferentes mensagens e imagens conforme o horário do dia. Ao carregar a página, o sistema identifica o horário atual e ajusta a mensagem, a imagem e o fundo da página para refletir o período do dia (manhã, tarde ou noite).
 </p>
 
 ## Funcionalidades
